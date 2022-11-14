@@ -40,7 +40,11 @@ Parameters:
 
   GitHubUser:
     Type: String
+<<<<<<< HEAD
     Default: SudKul
+=======
+    Default: Paolo068
+>>>>>>> 3cde099 (changed some files)
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
